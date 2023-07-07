@@ -1,0 +1,22 @@
+body {
+	background-color: white;
+}
+
+.container {
+	display: flex;
+	justify-content: center;
+}
+.page {
+	text-align: center;
+}
+.btn {
+	display: block;
+	margin: 0 auto;
+	background-color: #1c1c25;
+	color: #ffffff;
+	border-radius: 1px;
+}
+
+.page h1 {
+	color: #6b68ec;
+}
